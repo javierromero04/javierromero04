@@ -20,13 +20,6 @@ Soy estudiante de ASIR y actualmente me encuentro realizando mis prácticas prof
 ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierromero04&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javierromero04&layout=compact&theme=radical)
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/javierromero04/javierromero04/output/snake.svg" alt="Snake animation" />
-
 ###
 
 🚀 Technologies & Tools
@@ -55,5 +48,11 @@ Si te interesa saber más sobre mi trabajo o quieres ponerte en contacto conmigo
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/javierromero04/javierromero04/output/snake.svg" alt="Snake animation" />
 
 ---
