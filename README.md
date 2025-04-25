@@ -54,3 +54,5 @@ Si te interesa saber más sobre mi trabajo o quieres ponerte en contacto conmigo
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/javierromero04/javierromero04/output/snake.svg" alt="Snake animation" />
+
+---
