@@ -31,10 +31,6 @@ Soy estudiante de ASIR y actualmente me encuentro realizando mis prácticas prof
 ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierromero04&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javierromero04&layout=compact&theme=radical)
 
-#### 🏆 Contribuciones recientes:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javierromero04&theme=radical)
-
 ### 📩 Contacto
 Si te interesa saber más sobre mi trabajo o quieres ponerte en contacto conmigo, aquí te dejo mis redes:
 
