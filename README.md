@@ -4,11 +4,11 @@ Mi nombre es Javier, soy estudiante del ciclo formativo de Administración de Si
 <img align="right" height="150" src="https://i.gifer.com/WiCJ.gif"  />
 
 ###  💬 Sobre mí
-🛠️ Especializado en Administración de Sistemas, Infraestructura como Código y Seguridad de Redes
-🐳 Apasionado por las tecnologías de contenedores, con experiencia en Docker y Kubernetes
-📦 Enfocado en la automatización de procesos mediante Terraform, GitHub Actions y prácticas de CI/CD
-📈 Comprometido con la gestión y análisis de métricas, utilizando herramientas como Grafana y Prometheus.
-🌐 Con sólidos conocimientos en redes y optimización de sistemas operativos
+- 🛠️ Especializado en Administración de Sistemas, Infraestructura como Código y Seguridad de Redes
+- 🐳 Apasionado por las tecnologías de contenedores, con experiencia en Docker y Kubernetes
+- 📦 Enfocado en la automatización de procesos mediante Terraform, GitHub Actions y prácticas de CI/CD
+- 📈 Comprometido con la gestión y análisis de métricas, utilizando herramientas como Grafana y Prometheus.
+- 🌐 Con sólidos conocimientos en redes y optimización de sistemas operativos
 
 ### 🌱 Objetivos profesionales
 
