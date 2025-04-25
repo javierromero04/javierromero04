@@ -1,5 +1,8 @@
 name: Generate Snake Animation 🐍
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -15,7 +18,7 @@ jobs:
       - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: javierromero04 
+          github_user_name: javierromero04
           outputs: |
             ./snake.svg
 
