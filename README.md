@@ -1,8 +1,17 @@
-<h2 align="left">Hola 👋! mi nombre es Javier, soy estudiante de ASIR y estoy cursando las practicas en CodeArts</h2>
+<h2 align="left">Hola.
+Mi nombre es Javier, soy estudiante del ciclo formativo de Administración de Sistemas Informáticos en Red (ASIR) y actualmente me encuentro realizando mis prácticas profesionales en CodeArts.</h2>
 
 ###
 
 <img align="right" height="150" src="https://i.gifer.com/WiCJ.gif"  />
+###
+
+Sobre mí
+🛠️ Especializado en Administración de Sistemas, Infraestructura como Código y Seguridad de Redes
+🐳 Apasionado por las tecnologías de contenedores, con experiencia en Docker y Kubernetes
+📦 Enfocado en la automatización de procesos mediante Terraform, GitHub Actions y prácticas de CI/CD
+📈 Comprometido con la gestión y análisis de métricas, utilizando herramientas como Grafana y Prometheus.
+🌐 Con sólidos conocimientos en redes y optimización de sistemas operativos
 
 ###
 
