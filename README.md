@@ -1,8 +1,6 @@
 <h2 align="left">Hola.
 Mi nombre es Javier, soy estudiante del ciclo formativo de Administración de Sistemas Informáticos en Red (ASIR) y actualmente me encuentro realizando mis prácticas profesionales en CodeArts.</h2>
 
-###
-
 <img align="right" height="150" src="https://i.gifer.com/WiCJ.gif"  />
 ###
 
