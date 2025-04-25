@@ -50,8 +50,9 @@ Si te interesa saber más sobre mi trabajo o quieres ponerte en contacto conmigo
 </div>
 
 ###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/manulazaro/manulazaro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/javierromero04/javierromero04/output/snake.svg" alt="Snake animation" />
 
 ###
