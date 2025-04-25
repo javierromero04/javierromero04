@@ -27,6 +27,7 @@ Soy estudiante de ASIR y actualmente me encuentro realizando mis prácticas prof
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 📩 Contacto
+Si te interesa saber más sobre mi trabajo o quieres ponerte en contacto conmigo, aquí te dejo mis redes:
 
 <div align="left">
   <a href="https://www.instagram.com/javiromero.04/" target="_blank">
