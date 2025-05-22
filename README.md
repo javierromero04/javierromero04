@@ -30,6 +30,7 @@ Soy estudiante de ASIR y actualmente me encuentro realizando mis prácticas prof
  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 ### 📩 Contacto
 Si te interesa saber más sobre mi trabajo o quieres ponerte en contacto conmigo, aquí te dejo mis redes:
