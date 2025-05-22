@@ -47,6 +47,9 @@ Si te interesa saber más sobre mi trabajo o quieres ponerte en contacto conmigo
   <a href="https://www.linkedin.com/in/javier-romero-lancha-352647182/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+   <a href="https://gitlab.com/javierromero04" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  </a>
 </div>
 
 ###
